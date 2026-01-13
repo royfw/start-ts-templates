@@ -7,10 +7,10 @@
   "types": "dist/index.d.ts",
   "private": true,
   "scripts": {
-    "clean": "npx npm-run-all --parallel clean:dist clean:types",
+    "clean": "pnpm --parallel clean:dist clean:types",
     "clean:types": "npx rimraf ./types",
     "clean:dist": "npx rimraf ./dist",
-    "dev": "npx npm-run-all --parallel dev:rolldown typecheck:watch",
+    "dev": "pnpm --parallel dev:rolldown typecheck:watch",
     "dev:rolldown": "npm run clean && npx rolldown -c rolldown.config.ts -w",
     "build": "npm run build:rolldown",
     "build:rolldown": "npm run clean && npx rolldown -c rolldown.config.ts",
