@@ -7,10 +7,10 @@
   "types": "dist/index.d.ts",
   "private": true,
   "scripts": {
-    "clean": "pnpm --parallel clean:dist clean:types",
+    "clean": "npx npm-run-all --parallel clean:dist clean:types",
     "clean:types": "npx rimraf ./types",
     "clean:dist": "npx rimraf ./dist",
-    "dev": "pnpm --parallel dev:tsdown typecheck:watch",
+    "dev": "npx npm-run-all --parallel dev:tsdown typecheck:watch",
     "dev:tsdown": "npm run clean && tsdown --config-loader unrun --watch",
     "build": "npm run build:tsdown",
     "build:tsdown": "npm run clean && tsdown --config-loader unrun",
