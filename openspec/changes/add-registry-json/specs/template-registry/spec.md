@@ -31,7 +31,7 @@
 #### Scenario: repo 欄位格式驗證
 
 - **WHEN** 驗證 `repo` 欄位內容時
-- **THEN** 必須符合 "owner/repo" 格式(例如: "royfuwei/start-ts-templates")
+- **THEN** 必須符合 "owner/repo" 格式(例如: "royfw/start-ts-templates")
 
 #### Scenario: defaultRef 欄位指向有效分支
 

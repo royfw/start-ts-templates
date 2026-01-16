@@ -62,7 +62,7 @@ npx start-ts-by create my-app --template app-esbuild
 
 ```bash
 # Clone the repository
-git clone https://github.com/royfuwei/start-ts-templates.git
+git clone https://github.com/royfw/start-ts-templates.git
 
 # Navigate to desired template
 cd start-ts-templates/templates/app-esbuild
@@ -81,7 +81,7 @@ pnpm install
 
 Download specific template from GitHub:
 ```
-https://github.com/royfuwei/start-ts-templates/tree/main/templates/{template-name}
+https://github.com/royfw/start-ts-templates/tree/main/templates/{template-name}
 ```
 
 ### Quick Start
@@ -601,7 +601,7 @@ jobs:
 
 ```bash
 # Clone repository
-git clone https://github.com/royfuwei/start-ts-templates.git
+git clone https://github.com/royfw/start-ts-templates.git
 cd start-ts-templates
 
 # Install dependencies
@@ -741,11 +741,11 @@ ISC
 
 ## Support
 
-- [GitHub Issues](https://github.com/royfuwei/start-ts-templates/issues)
-- [Discussions](https://github.com/royfuwei/start-ts-templates/discussions)
+- [GitHub Issues](https://github.com/royfw/start-ts-templates/issues)
+- [Discussions](https://github.com/royfw/start-ts-templates/discussions)
 
 ---
 
-**Maintained by** [royfuwei](https://github.com/royfuwei)
+**Maintained by** [royfw](https://github.com/royfw)
 
 For 繁體中文版本, see [README.zh-TW.md](./README.zh-TW.md)

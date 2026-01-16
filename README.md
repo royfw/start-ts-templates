@@ -116,7 +116,7 @@ npx start-ts-by create my-app --template fastify-esbuild
 
 ```bash
 # Clone the repository
-git clone https://github.com/royfuwei/start-ts-templates.git
+git clone https://github.com/royfw/start-ts-templates.git
 
 # Navigate to desired template
 cd start-ts-templates/templates/app-esbuild
@@ -251,12 +251,12 @@ Built with modern tools:
 ## 🔗 Links
 
 - [npm Package: start-ts-by](https://www.npmjs.com/package/start-ts-by)
-- [GitHub Repository](https://github.com/royfuwei/start-ts-templates)
+- [GitHub Repository](https://github.com/royfw/start-ts-templates)
 - [Documentation](./docs/README.md)
 - [繁體中文文檔](./docs/README.zh-TW.md)
 
 ---
 
-**Created and maintained by** [royfuwei](https://github.com/royfuwei)
+**Created and maintained by** [royfw](https://github.com/royfw)
 
 For detailed information about each template, explore the [templates directory](./templates) or check out our [comprehensive documentation](./docs/README.md).

@@ -91,6 +91,6 @@ ISC
 
 ---
 
-**Created with** [start-ts-templates](https://github.com/royfuwei/start-ts-templates)
+**Created with** [start-ts-templates](https://github.com/royfw/start-ts-templates)
 
-For more templates, check out the [template collection](https://github.com/royfuwei/start-ts-templates/tree/main/templates).
+For more templates, check out the [template collection](https://github.com/royfw/start-ts-templates/tree/main/templates).

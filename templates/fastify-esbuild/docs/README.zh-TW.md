@@ -43,7 +43,7 @@
 
 ```bash
 # 複製或從範本建立
-degit royfuwei/start-ts-templates/templates/fastify-esbuild my-api
+degit royfw/start-ts-templates/templates/fastify-esbuild my-api
 cd my-api
 
 # 安裝依賴
@@ -413,4 +413,4 @@ ISC
 
 ---
 
-**使用 [start-ts-templates](https://github.com/royfuwei/start-ts-templates) 建立**
+**使用 [start-ts-templates](https://github.com/royfw/start-ts-templates) 建立**

@@ -43,7 +43,7 @@
 
 ```bash
 # Clone or create from template
-degit royfuwei/start-ts-templates/templates/fastify-esbuild my-api
+degit royfw/start-ts-templates/templates/fastify-esbuild my-api
 cd my-api
 
 # Install dependencies
@@ -413,4 +413,4 @@ ISC
 
 ---
 
-**Created with** [start-ts-templates](https://github.com/royfuwei/start-ts-templates)
+**Created with** [start-ts-templates](https://github.com/royfw/start-ts-templates)

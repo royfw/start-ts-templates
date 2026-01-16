@@ -62,7 +62,7 @@ npx start-ts-by create my-app --template app-esbuild
 
 ```bash
 # 克隆儲存庫
-git clone https://github.com/royfuwei/start-ts-templates.git
+git clone https://github.com/royfw/start-ts-templates.git
 
 # 導航至所需模板
 cd start-ts-templates/templates/app-esbuild
@@ -81,7 +81,7 @@ pnpm install
 
 從 GitHub 下載特定模板:
 ```
-https://github.com/royfuwei/start-ts-templates/tree/main/templates/{template-name}
+https://github.com/royfw/start-ts-templates/tree/main/templates/{template-name}
 ```
 
 ### 快速啟動
@@ -601,7 +601,7 @@ jobs:
 
 ```bash
 # 克隆儲存庫
-git clone https://github.com/royfuwei/start-ts-templates.git
+git clone https://github.com/royfw/start-ts-templates.git
 cd start-ts-templates
 
 # 安裝依賴
@@ -741,11 +741,11 @@ ISC
 
 ## 支援
 
-- [GitHub Issues](https://github.com/royfuwei/start-ts-templates/issues)
-- [Discussions](https://github.com/royfuwei/start-ts-templates/discussions)
+- [GitHub Issues](https://github.com/royfw/start-ts-templates/issues)
+- [Discussions](https://github.com/royfw/start-ts-templates/discussions)
 
 ---
 
-**維護者** [royfuwei](https://github.com/royfuwei)
+**維護者** [royfw](https://github.com/royfw)
 
 For English version, see [README.md](./README.md)

@@ -2,7 +2,7 @@
 
 ## Why
 
-為了讓 [`start-ts-by`](https://github.com/royfuwei/start-ts-by) 工具能夠發現和使用 start-ts-templates 專案中的模板,需要在根目錄提供一個標準化的 registry.json 檔案。這個檔案將作為模板註冊表,讓使用者可以透過 `npx start-ts-by` 命令快速建立基於這些模板的新專案。
+為了讓 [`start-ts-by`](https://github.com/royfw/start-ts-by) 工具能夠發現和使用 start-ts-templates 專案中的模板,需要在根目錄提供一個標準化的 registry.json 檔案。這個檔案將作為模板註冊表,讓使用者可以透過 `npx start-ts-by` 命令快速建立基於這些模板的新專案。
 
 目前 templates 目錄下有多個模板(app-tsdown, lib-tsdown 等),但缺乏統一的註冊機制,導致外部工具無法自動發現和使用這些模板。
 

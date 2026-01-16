@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A project created by starter-ts-bin",
   "main": "src/index.ts",
+  "bin": {
+    "bin-tsdown": "./dist/bin/index.js"
+  },
   "scripts": {
     "publish:dist": "./publish.sh",
     "clean": "npx npm-run-all --parallel clean:dist clean:types",
@@ -45,7 +48,7 @@
     }
   },
   "keywords": [],
-  "author": "royfuwei",
+  "author": "Roy Chuang",
   "license": "ISC",
   "packageManager": "pnpm@10.24.0",
   "engines": {

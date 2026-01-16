@@ -240,7 +240,7 @@ graph LR
 1. **複製或建立專案**:
    ```bash
    # 如果使用作為模板
-   degit royfuwei/start-ts-templates/templates/app-esbuild my-app
+   degit royfw/start-ts-templates/templates/app-esbuild my-app
    cd my-app
    ```
 
@@ -1154,7 +1154,7 @@ node --enable-source-maps dist/main.js
 
 ### 尋求協助
 
-- 查看 [GitHub Issues](https://github.com/royfuwei/start-ts-templates/issues)
+- 查看 [GitHub Issues](https://github.com/royfw/start-ts-templates/issues)
 - 查閱 [esbuild 文檔](https://esbuild.github.io/)
 - 在專案討論區發問
 
@@ -1192,6 +1192,6 @@ node --enable-source-maps dist/main.js
 
 ---
 
-**建立者** [start-ts-templates](https://github.com/royfuwei/start-ts-templates)
+**建立者** [start-ts-templates](https://github.com/royfw/start-ts-templates)
 
-更多模板請查看 [模板集合](https://github.com/royfuwei/start-ts-templates/tree/main/templates)。
+更多模板請查看 [模板集合](https://github.com/royfw/start-ts-templates/tree/main/templates)。

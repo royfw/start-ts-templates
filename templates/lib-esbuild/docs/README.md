@@ -43,7 +43,7 @@
 
 ```bash
 # Create from template
-degit royfuwei/start-ts-templates/templates/lib-esbuild my-library
+degit royfw/start-ts-templates/templates/lib-esbuild my-library
 cd my-library
 
 # Install dependencies
@@ -456,4 +456,4 @@ ISC
 
 ---
 
-**Created with** [start-ts-templates](https://github.com/royfuwei/start-ts-templates)
+**Created with** [start-ts-templates](https://github.com/royfw/start-ts-templates)

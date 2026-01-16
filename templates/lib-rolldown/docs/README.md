@@ -240,7 +240,7 @@ graph LR
 1. **Clone or Create Project**:
    ```bash
    # If using as template
-   degit royfuwei/start-ts-templates/templates/lib-rolldown my-library
+   degit royfw/start-ts-templates/templates/lib-rolldown my-library
    cd my-library
    ```
 
@@ -1171,7 +1171,7 @@ npm publish --loglevel verbose
 
 ### Getting Help
 
-- Check [GitHub Issues](https://github.com/royfuwei/start-ts-templates/issues)
+- Check [GitHub Issues](https://github.com/royfw/start-ts-templates/issues)
 - Review [Rolldown documentation](https://rolldown.rs/)
 - Ask in project discussions
 
@@ -1214,6 +1214,6 @@ This project is licensed under the ISC License.
 
 ---
 
-**Created with** [start-ts-templates](https://github.com/royfuwei/start-ts-templates)
+**Created with** [start-ts-templates](https://github.com/royfw/start-ts-templates)
 
-For more templates, check out the [template collection](https://github.com/royfuwei/start-ts-templates/tree/main/templates).
+For more templates, check out the [template collection](https://github.com/royfw/start-ts-templates/tree/main/templates).
