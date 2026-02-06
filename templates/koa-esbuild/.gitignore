@@ -416,3 +416,5 @@ docs/.vitepress/cache
 
 .data
 .data/*
+
+.pnpm-store

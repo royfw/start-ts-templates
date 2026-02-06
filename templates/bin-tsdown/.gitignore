@@ -414,3 +414,5 @@ types*
 
 docs/.vitepress/dist
 docs/.vitepress/cache
+
+.pnpm-store
